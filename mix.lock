@@ -15,6 +15,5 @@
   "keccakf1600": {:hex, :keccakf1600_orig, "2.0.0", "0a7217ddb3ee8220d449bbf7575ec39d4e967099f220a91e3dfca4dbaef91963", [:rebar3], [], "hexpm"},
   "libsecp256k1": {:hex, :libsecp256k1, "0.1.3", "57468b986af7c9633527875f71c7ca08bf4150b07b38a60d5bd48fba299ff6c1", [:rebar3], [], "hexpm"},
   "merkle_patricia_tree": {:hex, :merkle_patricia_tree, "0.2.5", "cdbd2addf8fe46c5d6025dc76b31049c3d252c776b7ec01b0760f5142848e5b2", [:mix], [{:ex_rlp, "~> 0.2.0", [hex: :ex_rlp, repo: "hexpm", optional: false]}, {:exleveldb, "~> 0.11.1", [hex: :exleveldb, repo: "hexpm", optional: false]}, {:hex_prefix, "~> 0.1.0", [hex: :hex_prefix, repo: "hexpm", optional: false]}, {:keccakf1600, "~> 2.0.0", [hex: :keccakf1600_orig, repo: "hexpm", optional: false]}], "hexpm"},
-  "nap_upnp": {:git, "https://github.com/benoitc/nat_upnp.git", "bee2e8f7e48aca999c8b615220e49b2c08ed0ca8", []},
   "nat_upnp": {:hex, :nat_upnp, "0.1.0", "959652257a7b6f8ec2bc164d61468e15e5d3945ac57578f3064fcf179379f9b2", [:rebar3], [{:inet_ext, "0.4.0", [hex: :inet_ext, repo: "hexpm", optional: false]}], "hexpm"},
   "poison": {:hex, :poison, "3.1.0", "d9eb636610e096f86f25d9a46f35a9facac35609a7591b3be3326e99a0484665", [:mix], [], "hexpm"}}
